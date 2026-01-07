@@ -1,52 +1,105 @@
-Hi there, I'm Abdelrahman Galhoom 👋
+<div align="center" width="50">
 
-I am a passionate Back-End Developer specializing in building scalable RESTful APIs and clean Laravel applications. I have a huge attraction to Software Architecture 🏗️ and I am a bit 😄 detailed-oriented 😄 when I code using SOLID principles.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> 
 
-Connect with me here:
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-handle" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmangalhoom" height="30" width="40" /></a>
-<a href="mailto:abdelrahmangalhoom9@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abdelrahmangalhoom9@gmail.com" height="30" width="40" /></a>
 
-🏢 I'm currently working at Huma-volve as a Laravel Backend Developer
 
-🚀 I use daily: PHP, Laravel, MySQL, Git, Postman, Ubuntu (WSL 2)
 
-💻 I work using: Clean Architecture, SOLID, Docker, Pusher (WebSockets), Stripe, TDD (PHPUnit)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
 
-⚡️ Fun fact: I love solving complex algorithmic problems on Codeforces & LeetCode and applying Data Structures in real-world apps.
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="your-github-username" />
+
+<!-- Social & Hits -->
+
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-handle" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="mailto:abdelrahmangalhoom9@gmail.com" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/></a>
+
+</div>
+
+<hr></hr>
+
+<!-- Tech Stack Badges -->
+
+<div align="center">
+
+<!-- Backend & Languages -->
+
+<!-- Frontend & Basics -->
+
+<!-- Tools & DevOps -->
+
+</div>
+
+<!-- PHP Code Snippet -->
+
+// My_Stack_Organized.php
+
+class Abdelrahman extends BackendDeveloper { 
+  const STACK = [  
+    "Languages"    => ["PHP", "C++", "Python", "JavaScript", "SQL"],
+    "Frameworks"   => ["Laravel 12", "TailwindCSS"],
+    "Architecture" => ["Clean Architecture", "SOLID", "MVC", "Repository Pattern"],
+    "Database"     => ["MySQL", "Redis"],
+    "Tools"        => ["Git", "Docker", "Postman", "Pusher"],
+    "OS"           => ["Ubuntu (WSL2)", "Windows"]
+  ];
+  
+  public function currentFocus() {
+    return "Building Scalable RESTful APIs & AI Integration";
+  }
+}
+
+
+🔭 I’m currently working as a Laravel Backend Developer at Huma-volve <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I like exploring Complex Algorithms & Data Structures. 
+
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Backend Architecture, Laravel, & APIs. 
+
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Connect with me: LinkedIn
+
+
+
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I love solving Codeforces problems for fun.
+
+
+
+<div align="center" >
+<a  href="https://github.com/your-github-username">
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26theme%3Dnord" width="48%">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dnord" width="48%">
+
 </a>
-</p>
 
-Check out my recent projects 🛠️
+<details>
+<summary>More stats</summary>
 
-Here are some of the production-level systems I've architected and built:
 
-Safarni - Travel Platform Backend A multi-service travel booking API (Flights, Tours, Hotels) featuring dynamic seat selection, conflict detection, and polymorphic relationships.
 
-Cure - Doctor Appointment System Healthcare appointment platform connecting patients with doctors via mobile API, including real-time scheduling and web dashboards.
 
-Modular E-commerce Store A scalable modular backend implementing Clean Architecture, RBAC, and complex cart/order workflows with Stripe integration.
 
-AI-Powered Job Board A hiring platform with OpenAI resume analysis integration, advanced filtering, and secure role-based access control.
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="your-github-username" />
+</details>
 
-Codeforces & LeetCode Solutions My solutions for competitive programming problems focusing on Data Structures, Algorithms, and C++ optimization.
+<hr></hr>
 
-🛠 Languages and Tools
+Code Cycle
 
-<p align="left">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den" alt="your-github-username" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact" alt="your-github-username" />
-</p>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+
+
+
+</div>
