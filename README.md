@@ -8,8 +8,14 @@
 
 ## 🔗 Connect with Me
 
-- 💼 **LinkedIn:** [abdelrahman-galhoom](https://www.linkedin.com/in/abdelrahman-galhoom/)
-- 📧 **Email:** [abdelrahmangalhoom9@gmail.com](mailto:abdelrahmangalhoom9@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelrahman-galhoom/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman_Galhoom-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdelrahmangalhoom9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
