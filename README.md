@@ -4,8 +4,6 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -49,20 +47,4 @@ class AbdelrahmanGalhoom extends BackendDeveloper
 
 💬 Ask me about Backend Architecture, Laravel, and APIs
 
-⚡ Fun fact: I enjoy solving Codeforces problems for fun
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=nord" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nord" width="48%" />
-</p>
-
-<details>
-  <summary>More stats</summary>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=10" />
-  </p>
-</details>
-```
+⚡ Fun fact: I enjoy solving LeetCode problems for fun
