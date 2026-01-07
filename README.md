@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-
-<!-- Added Name & Title Here -->
-
 <h1>Hi 👋, I'm Abdelrahman Galhoom</h1>
 <h3>🚀 Backend Developer (Laravel / PHP)</h3>
 
