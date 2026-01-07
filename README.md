@@ -22,7 +22,7 @@
 class AbdelrahmanGalhoom extends BackendDeveloper
 {
     const STACK = [
-        "Languages"    => ["PHP", "C++", "Python", "JavaScript", "SQL"],
+        "Languages"    => ["PHP", "C++", "JavaScript", "SQL"],
         "Frameworks"   => ["Laravel 12", "TailwindCSS"],
         "Architecture" => ["Clean Architecture", "SOLID", "MVC", "Repository Pattern"],
         "Database"     => ["MySQL", "Redis"],
@@ -46,8 +46,17 @@ class AbdelrahmanGalhoom extends BackendDeveloper
 
 ⚡ Fun fact: I enjoy solving Codeforces problems for fun
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="120" />
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=nord" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nord" width="48%" /> </p> <details> <summary>More stats</summary> <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=10" /> </details>
-🔄 Code Cycle
-<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80" /> </p> ```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=nord" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nord" width="48%" />
+</p>
+
+<details>
+  <summary>More stats</summary>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=10" />
+  </p>
+</details>
