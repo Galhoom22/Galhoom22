@@ -28,8 +28,7 @@ class AbdelrahmanGalhoom extends BackendDeveloper
         "Frameworks"   => ["Laravel 12", "TailwindCSS"],
         "Architecture" => ["Clean Architecture", "SOLID", "MVC", "Repository Pattern"],
         "Database"     => ["MySQL", "Redis"],
-        "Tools"        => ["Git", "Docker", "Postman", "Pusher"],
-        "OS"           => ["Ubuntu (WSL2)", "Windows"]
+        "Tools"        => ["Git", "Docker", "Postman", "Pusher"]
     ];
 
     public function currentFocus(): string
