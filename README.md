@@ -1,18 +1,24 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
+<!-- Added Name & Title Here -->
 
+<h1>Hi 👋, I'm Abdelrahman Galhoom</h1>
+<h3>🚀 Backend Developer (Laravel / PHP)</h3>
 
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
-
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 <!-- Social & Hits -->
 
 <a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-handle" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
 <a href="mailto:abdelrahmangalhoom9@gmail.com" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/></a>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26style%3Dflat%26color%3Dorange%26label%3DPROFILE%2BVIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -32,9 +38,9 @@
 
 <!-- PHP Code Snippet -->
 
-// My_Stack_Organized.php
+// Abdelrahman_Stack.php
 
-class Abdelrahman extends BackendDeveloper { 
+class AbdelrahmanGalhoom extends BackendDeveloper { 
   const STACK = [  
     "Languages"    => ["PHP", "C++", "Python", "JavaScript", "SQL"],
     "Frameworks"   => ["Laravel 12", "TailwindCSS"],
