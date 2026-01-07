@@ -6,11 +6,10 @@
 
 ---
 
-### 🔗 Connect with me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abdelrahman-galhoom/
-- 📧 **Email:** abdelrahmangalhoom9@gmail.com  
+## 🔗 Connect with Me
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=orange&label=PROFILE+VIEWS" />
+- 💼 **LinkedIn:** [abdelrahman-galhoom](https://www.linkedin.com/in/abdelrahman-galhoom/)
+- 📧 **Email:** [abdelrahmangalhoom9@gmail.com](mailto:abdelrahmangalhoom9@gmail.com)
 
 ---
 
