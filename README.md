@@ -1,105 +1,53 @@
-<h1>Hi 👋, I'm Abdelrahman Galhoom</h1>
-<h3>🚀 Backend Developer (Laravel / PHP)</h3>
+# Hi 👋, I'm Abdelrahman Galhoom
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+### 🚀 Backend Developer (Laravel / PHP)
 
-<!-- Social & Hits -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-handle" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
-<a href="mailto:abdelrahmangalhoom9@gmail.com" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/></a>
+---
 
+### 🔗 Connect with me
+- 💼 **LinkedIn:** https://linkedin.com/in/your-linkedin-handle  
+- 📧 **Email:** abdelrahmangalhoom9@gmail.com  
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=orange&label=PROFILE+VIEWS" />
 
+---
 
+## 🧠 Tech Stack (as Code)
 
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26style%3Dflat%26color%3Dorange%26label%3DPROFILE%2BVIEWS" alt="Profile Views"/>
-
-</div>
-
-<hr></hr>
-
-<!-- Tech Stack Badges -->
-
-<div align="center">
-
-<!-- Backend & Languages -->
-
-<!-- Frontend & Basics -->
-
-<!-- Tools & DevOps -->
-
-</div>
-
-<!-- PHP Code Snippet -->
-
+```php
 // Abdelrahman_Stack.php
 
-class AbdelrahmanGalhoom extends BackendDeveloper { 
-  const STACK = [  
-    "Languages"    => ["PHP", "C++", "Python", "JavaScript", "SQL"],
-    "Frameworks"   => ["Laravel 12", "TailwindCSS"],
-    "Architecture" => ["Clean Architecture", "SOLID", "MVC", "Repository Pattern"],
-    "Database"     => ["MySQL", "Redis"],
-    "Tools"        => ["Git", "Docker", "Postman", "Pusher"],
-    "OS"           => ["Ubuntu (WSL2)", "Windows"]
-  ];
-  
-  public function currentFocus() {
-    return "Building Scalable RESTful APIs & AI Integration";
-  }
+class AbdelrahmanGalhoom extends BackendDeveloper
+{
+    const STACK = [
+        "Languages"    => ["PHP", "C++", "Python", "JavaScript", "SQL"],
+        "Frameworks"   => ["Laravel 12", "TailwindCSS"],
+        "Architecture" => ["Clean Architecture", "SOLID", "MVC", "Repository Pattern"],
+        "Database"     => ["MySQL", "Redis"],
+        "Tools"        => ["Git", "Docker", "Postman", "Pusher"],
+        "OS"           => ["Ubuntu (WSL2)", "Windows"]
+    ];
+
+    public function currentFocus(): string
+    {
+        return "Building Scalable RESTful APIs & AI Integration";
+    }
 }
 
+👨‍💻 About Me
 
-🔭 I’m currently working as a Laravel Backend Developer at Huma-volve <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+🔭 Currently working as a Laravel Backend Developer at Huma-volve
 
+🧠 Interested in Complex Algorithms & Data Structures
 
+💬 Ask me about Backend Architecture, Laravel, and APIs
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I like exploring Complex Algorithms & Data Structures. 
+⚡ Fun fact: I enjoy solving Codeforces problems for fun
 
-
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Backend Architecture, Laravel, & APIs. 
-
-
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Connect with me: LinkedIn
-
-
-
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I love solving Codeforces problems for fun.
-
-
-
-<div align="center" >
-<a  href="https://github.com/your-github-username">
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26theme%3Dnord" width="48%">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dnord" width="48%">
-
-</a>
-
-<details>
-<summary>More stats</summary>
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dyour-github-username%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="your-github-username" />
-</details>
-
-<hr></hr>
-
-Code Cycle
-
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-
-
-
-</div>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="120" />
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=nord" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=nord" width="48%" /> </p> <details> <summary>More stats</summary> <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&margin-w=10" /> </details>
+🔄 Code Cycle
+<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80" /> </p> ```
