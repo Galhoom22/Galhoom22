@@ -7,7 +7,7 @@
 ---
 
 ### 🔗 Connect with me
-- 💼 **LinkedIn:** https://linkedin.com/in/your-linkedin-handle  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abdelrahman-galhoom/
 - 📧 **Email:** abdelrahmangalhoom9@gmail.com  
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=orange&label=PROFILE+VIEWS" />
