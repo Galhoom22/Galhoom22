@@ -20,7 +20,6 @@
 ## 🧠 Tech Stack (as Code)
 
 ```php
-// Abdelrahman_Stack.php
 
 class AbdelrahmanGalhoom extends BackendDeveloper
 {
