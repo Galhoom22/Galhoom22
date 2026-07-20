@@ -15,9 +15,6 @@
 <a href="mailto:abdelrahmangalhoom9@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Galhoom22">
-  <img src="https://img.shields.io/badge/GitHub-Galhoom22-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -80,8 +77,8 @@ class AbdelrahmanGalhoom extends BackendEngineer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Galhoom22&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galhoom22&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats-tau-ecru.vercel.app/api?username=Galhoom22&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-tau-ecru.vercel.app/api/top-langs/?username=Galhoom22&layout=compact&hide_border=true" />
 
 </div>
 
