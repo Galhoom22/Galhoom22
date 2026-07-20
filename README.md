@@ -73,17 +73,6 @@ class AbdelrahmanGalhoom extends BackendEngineer
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-tau-ecru.vercel.app/api?username=Galhoom22&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-tau-ecru.vercel.app/api/top-langs/?username=Galhoom22&layout=compact&hide_border=true" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### 📫 Let's connect and build something great together
