@@ -70,16 +70,3 @@ class AbdelrahmanGalhoom extends BackendEngineer
     }
 }
 ```
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abdelrahman-galhoom/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman_Galhoom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abdelrahmangalhoom9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
