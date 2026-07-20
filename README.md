@@ -63,10 +63,5 @@ class AbdelrahmanGalhoom extends BackendEngineer
     {
         return 'Energy Conversion & Metering Platform APIs';
     }
-
-    public function askMeAbout(): array
-    {
-        return ['Backend Architecture', 'Laravel', 'API Design', 'Clean Code'];
-    }
 }
 ```
