@@ -12,13 +12,23 @@ I debug backends like a **detective**. **T-shaped** skills. **Product-engineer**
 
 ## 🔭 Now
 
-**Energy Conversion & Metering** API — Laravel · Clean Architecture · real domain flows.
+Shipping an **Energy Conversion & Metering** API — Laravel · domain modules · real billing flows.
+
+---
+
+## 💼 Featured work
+
+| Project | What a visitor sees |
+|:---|:---|
+| [⚡ energy-conversion](https://github.com/Galhoom22/energy-conversion) | Metering → tariffs → billing → reconciliation (Laravel API) |
+| [🚀 job-board-platform](https://github.com/Galhoom22/job-board-platform) | Job board monorepo — seekers + companies (Clean Architecture) |
+| [🎤 technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | Real PHP/Laravel interview answer bank (not a scraped dump) |
 
 ---
 
 ## 🛤️ Galhoom Path
 
-Structured learning I maintain in public — for myself and for others:
+Public learning system I maintain — Study · Problem Solving · Interview Prep:
 
 ```mermaid
 flowchart TB
