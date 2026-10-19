@@ -39,6 +39,7 @@ flowchart TB
   ORG --> R["🏗️ Projects"]
   S --> S1["php-fundamentals → php-oop"]
   P --> P1["LeetCode-DSA-Pareto-Set"]
+  P --> P2["php-problem-solving-solo-leveling"]
   I --> I1["technical-interview-questions"]
   R --> R1["energy-conversion"]
 ```
