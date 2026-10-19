@@ -23,12 +23,13 @@
 | 🏗️ | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | Metering & billing API (Laravel) |
 | 🗂️ | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | Recruitment platform — candidate & company flows |
 | 🎤 | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | PHP / Laravel interview Q&A from real interviews |
+| 🧭 | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Stack-agnostic shared backend engineering notes |
 
 ---
 
 ## 🛤️ Galhoom Path
 
-**Study** · **Problem Solving** · **Interview Prep** · **Projects**
+**Study** · **Problem Solving** · **Interview Prep** · **Projects** · **Foundations**
 
 ```mermaid
 flowchart TB
@@ -37,11 +38,13 @@ flowchart TB
   ORG --> P["🧠 Problem Solving"]
   ORG --> I["🎤 Interview Prep"]
   ORG --> R["🏗️ Projects"]
+  ORG --> F["🧭 Foundations"]
   S --> S1["php-fundamentals → php-oop"]
   P --> P1["LeetCode-DSA-Pareto-Set"]
   P --> P2["php-problem-solving-solo-leveling"]
   I --> I1["technical-interview-questions"]
   R --> R1["energy-conversion"]
+  F --> F1["backend-engineering"]
 ```
 
 [Open organization →](https://github.com/galhoom-path)
