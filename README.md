@@ -23,7 +23,7 @@
 | 🏗️ | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | Metering & billing API (Laravel) |
 | 🗂️ | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | Recruitment platform — candidate & company flows |
 | 🎤 | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | PHP / Laravel interview Q&A from real interviews |
-| 🧭 | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Stack-agnostic shared backend engineering notes |
+| 🧭 | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Track 5 · Foundations — stack-agnostic backend notes |
 
 ---
 
