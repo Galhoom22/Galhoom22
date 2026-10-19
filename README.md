@@ -28,7 +28,7 @@ Shipping an **Energy Conversion & Metering** API — Laravel · domain modules �
 
 ## 🛤️ Galhoom Path
 
-Public learning system I maintain — Study · Problem Solving · Interview Prep:
+Public learning + shipping system — **four tracks**: Study · Problem Solving · Interview Prep · Projects:
 
 ```mermaid
 flowchart TB
@@ -36,9 +36,11 @@ flowchart TB
   ORG --> S["📘 Study"]
   ORG --> P["🧠 Problem Solving"]
   ORG --> I["🎤 Interview Prep"]
+  ORG --> R["🏗️ Projects"]
   S --> S1["php-fundamentals → php-oop"]
   P --> P1["LeetCode-DSA-Pareto-Set"]
   I --> I1["technical-interview-questions"]
+  R --> R1["energy-conversion · job-board"]
 ```
 
 [Open the organization →](https://github.com/galhoom-path)
