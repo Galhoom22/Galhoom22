@@ -2,7 +2,7 @@
 
 # Abdelrahman Galhoom
 
-![Profile map](https://raw.githubusercontent.com/Galhoom22/Galhoom22/main/profile-map.svg)
+![Profile map](https://raw.githubusercontent.com/Galhoom22/Galhoom22/main/profile-map.jpg)
 
 **Software engineer** · **Backend specialist** · Egypt
 
