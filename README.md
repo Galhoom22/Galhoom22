@@ -20,7 +20,7 @@ Shipping an **Energy Conversion & Metering** API — Laravel · domain modules �
 
 | Project | What a visitor sees |
 |:---|:---|
-| [⚡ energy-conversion](https://github.com/Galhoom22/energy-conversion) | Metering → tariffs → billing → reconciliation (Laravel API) |
+| [⚡ energy-conversion](https://github.com/galhoom-path/energy-conversion) | Metering → tariffs → billing → reconciliation (Laravel API) |
 | [🚀 job-board-platform](https://github.com/Galhoom22/job-board-platform) | Job board monorepo — seekers + companies (Clean Architecture) |
 | [🎤 technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | Real PHP/Laravel interview answer bank (not a scraped dump) |
 
@@ -40,7 +40,7 @@ flowchart TB
   S --> S1["php-fundamentals → php-oop"]
   P --> P1["LeetCode-DSA-Pareto-Set"]
   I --> I1["technical-interview-questions"]
-  R --> R1["energy-conversion · job-board"]
+  R --> R1["energy-conversion · job-board-platform"]
 ```
 
 [Open the organization →](https://github.com/galhoom-path)
