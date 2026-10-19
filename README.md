@@ -1,13 +1,14 @@
+<div align="center">
+
 # Abdelrahman Galhoom
+
+<img src="./profile-map.svg" alt="Profile map: T-shaped backend specialist and Galhoom Path" width="920" />
 
 **Software engineer** · **Backend specialist** · Egypt
 
-I debug and design backends like a **detective**: find the real cause, keep the system clear, ship what the product needs.
-
-**T-shaped** in skill — deep in backend (PHP / Laravel / APIs / data), wide enough to work cleanly with product, frontend, and ops.  
-**Product-engineer** in mindset — user outcome and business flow first, not “the endpoint returns 200.”
-
 [LinkedIn](https://www.linkedin.com/in/abdelrahman-galhoom/) · [🛤️ Galhoom Path](https://github.com/galhoom-path)
+
+</div>
 
 ---
 
@@ -19,13 +20,18 @@ Shipping an **Energy Conversion & Metering** API (Laravel) — Clean Architectur
 
 ## 🛤️ Galhoom Path
 
-Public learning org I maintain so backend growth stays **ordered** — for me and for anyone following the same path:
-
-| | Track | Open |
-|:---:|:---|:---|
-| 📘 | **Study** — Lectures → interview set → project | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) |
-| 🧠 | **Problem Solving** — Pareto DSA patterns | [LeetCode-DSA-Pareto-Set](https://github.com/galhoom-path/LeetCode-DSA-Pareto-Set) |
-| 🎤 | **Interview Prep** — real answer banks | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) |
+```text
+                    🛤️ galhoom-path
+                           │
+        ┌──────────────────┼──────────────────┐
+        ▼                  ▼                  ▼
+   📘 Study          🧠 Problem Solving   🎤 Interview Prep
+ Lectures→Q→Project    Pareto DSA          Real answer banks
+        │                  │                  │
+        ▼                  ▼                  ▼
+ php-fundamentals    LeetCode-DSA-Pareto   technical-interview
+ php-oop                   -Set               -questions
+```
 
 → [github.com/galhoom-path](https://github.com/galhoom-path)
 
