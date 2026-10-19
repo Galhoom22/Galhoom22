@@ -1,42 +1,51 @@
 # Abdelrahman Galhoom
 
-**Backend engineer** · PHP & Laravel · Egypt
+**Software engineer** · **Backend specialist** · Egypt
 
-I build clean backend APIs and share what I learn in public — so others can follow a clear path, not a random dump of notes.
+I work like a **detective** on backend problems: find the real cause, keep the system clear, ship what the product needs — not noise.
 
-[LinkedIn](https://www.linkedin.com/in/abdelrahman-galhoom/) · [Galhoom Path](https://github.com/galhoom-path)
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-galhoom/) · [🛤️ Galhoom Path](https://github.com/galhoom-path)
 
 ---
 
-## What I’m doing now
+## 🧭 How I work
 
-- Shipping an **Energy Conversion & Metering** platform API (Laravel)
-- Deepening **Clean Architecture**, SOLID, and API design through real projects
+| | |
+|:---|:---|
+| **Skills shape** | **T-shaped engineer** — deep in **backend** (PHP / Laravel / APIs / data), with enough width to work cleanly with frontend, product, and ops around it |
+| **Mindset** | **Product engineer** — I care about the user outcome and the business flow, not only “the endpoint works” |
+
+---
+
+## 🔭 Now
+
+- Building an **Energy Conversion & Metering** platform API (Laravel)
+- Raising the bar on **Clean Architecture**, SOLID, and API design through real systems
 
 ---
 
 ## 🛤️ Galhoom Path
 
-I maintain **[galhoom-path](https://github.com/galhoom-path)** — a public organization with three tracks:
+I maintain **[galhoom-path](https://github.com/galhoom-path)** — public tracks so others (and I) learn in sequence, not from random note dumps:
 
 | Track | What it is | Start |
 |:---|:---|:---|
-| **📘 Study** | Subject repos: Lectures → Interview set → Final project | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) |
-| **🧠 Problem Solving** | High-leverage DSA patterns (Pareto set) | [LeetCode-DSA-Pareto-Set](https://github.com/galhoom-path/LeetCode-DSA-Pareto-Set) |
-| **🎤 Interview Prep** | Real interview **answer banks** (not scraped dumps) | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) |
+| 📘 **Study** | Lectures → subject interview set → final project | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) |
+| 🧠 **Problem Solving** | High-leverage DSA patterns (Pareto set) | [LeetCode-DSA-Pareto-Set](https://github.com/galhoom-path/LeetCode-DSA-Pareto-Set) |
+| 🎤 **Interview Prep** | Real interview **answer banks** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) |
 
-**Why it exists:** structured practice for myself, and a reusable map for anyone learning backend the same way.
+**Why:** structured practice for me, and a clear map for anyone walking the same backend path.
 
 ---
 
-## Stack (what I actually use)
+## 🛠️ Stack I ship with
 
 **PHP 8.5 · Laravel 13 · MySQL · Livewire · Filament · Git · Postman/Apidog**
 
-Also: SQL design, Clean Architecture / modular backends, C++ for DSA practice.
+Also: SQL / schema design, modular backends, C++ for DSA practice.
 
 ---
 
-## Highlighted work
+## 📌 Highlighted work
 
 Pinned below: production-style backends + Galhoom Path learning repos.
