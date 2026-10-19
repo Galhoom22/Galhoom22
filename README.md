@@ -40,7 +40,7 @@ flowchart TB
   S --> S1["php-fundamentals → php-oop"]
   P --> P1["LeetCode-DSA-Pareto-Set"]
   I --> I1["technical-interview-questions"]
-  R --> R1["energy-conversion · job-board-platform"]
+  R --> R1["energy-conversion"]
 ```
 
 [Open the organization →](https://github.com/galhoom-path)
