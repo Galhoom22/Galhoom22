@@ -46,7 +46,7 @@ Ordered by Galhoom Path ID where applicable. **Complete? = `✅` only at 100%.**
 | **1** | **1.1** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **0%** | ⬜ | 🎯 **Current focus** — PHP 8.5+ fundamentals |
 | **2** | **2.1** | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | **0%** | ⬜ | Track 2 · Foundations — stack-agnostic notes |
 | **3** | **4.1** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | **0%** | ⬜ | Track 4 · PHP / Laravel interview Q&A |
-| **4** | **5.1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | **~20%** | ⬜ | Track 5 · Metering & billing API (Laravel) |
+| **4** | **5.1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | **~20%** | ⬜ | Track 5 · Practice build (learn by doing) — metering & billing API |
 | **5** | — | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | — | ⬜ | Personal · Recruitment platform (candidate & company flows) |
 
 ---
@@ -61,7 +61,7 @@ Ordered by Galhoom Path ID where applicable. **Complete? = `✅` only at 100%.**
 | **2** | 🧭 Foundations | **2.1** | Shared backend concepts |
 | **3** | 🧠 Problem Solving | **3.1 → 3.2** | PHP gates → LeetCode patterns |
 | **4** | 🎤 Interview Prep | **4.1** | Real interview answers |
-| **5** | 🏗️ Projects | **5.1** | Ship portfolio apps |
+| **5** | 🏗️ Projects | **5.1** | Learn-by-doing practice builds (public · not market products) |
 
 ```mermaid
 flowchart LR
