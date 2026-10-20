@@ -10,7 +10,18 @@
 
 ---
 
-## 🔭 Current focus
+### Contents
+
+| # | Section |
+|:---:|:---|
+| **1** | [Current focus](#1--current-focus) |
+| **2** | [Selected work](#2--selected-work) |
+| **3** | [Galhoom Path](#3--galhoom-path) |
+| **4** | [Stack](#4--stack) |
+
+---
+
+## 1 · Current focus
 
 **📘 [php-fundamentals](https://github.com/galhoom-path/php-fundamentals)** — Track 1 · Study · Learning Series #1  
 Core PHP 8.5+ (no OOP) · Lectures → Interview Questions → Final Project · **0 / 30** lectures
@@ -19,30 +30,36 @@ Core PHP 8.5+ (no OOP) · Lectures → Interview Questions → Final Project · 
 
 ---
 
-## 💼 Selected work
+## 2 · Selected work
 
-| | Repository | Scope |
-|:---:|:---|:---|
-| 📘 | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **Current focus** — PHP 8.5+ fundamentals (Study #1) |
-| 🏗️ | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | Metering & billing API (Laravel) |
-| 🗂️ | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | Recruitment platform — candidate & company flows |
-| 🎤 | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | PHP / Laravel interview Q&A from real interviews |
-| 🧭 | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Track 5 · Foundations — stack-agnostic backend notes |
+| # | | Repository | Scope |
+|:---:|:---:|:---|:---|
+| **1** | 📘 | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **Current focus** — PHP 8.5+ fundamentals (Study #1) |
+| **2** | 🏗️ | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | Metering & billing API (Laravel) |
+| **3** | 🗂️ | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | Recruitment platform — candidate & company flows |
+| **4** | 🎤 | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | PHP / Laravel interview Q&A from real interviews |
+| **5** | 🧭 | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Track 5 · Foundations — stack-agnostic backend notes |
 
 ---
 
-## 🛤️ Galhoom Path
+## 3 · Galhoom Path
 
-**Study** · **Problem Solving** · **Interview Prep** · **Projects** · **Foundations**
+| # | Track |
+|:---:|:---|
+| **1** | 📘 Study |
+| **2** | 🧠 Problem Solving |
+| **3** | 🎤 Interview Prep |
+| **4** | 🏗️ Projects |
+| **5** | 🧭 Foundations |
 
 ```mermaid
 flowchart TB
   ORG["🛤️ galhoom-path"]
-  ORG --> S["📘 Study"]
-  ORG --> P["🧠 Problem Solving"]
-  ORG --> I["🎤 Interview Prep"]
-  ORG --> R["🏗️ Projects"]
-  ORG --> F["🧭 Foundations"]
+  ORG --> S["1 · 📘 Study"]
+  ORG --> P["2 · 🧠 Problem Solving"]
+  ORG --> I["3 · 🎤 Interview Prep"]
+  ORG --> R["4 · 🏗️ Projects"]
+  ORG --> F["5 · 🧭 Foundations"]
   S --> S1["🎯 php-fundamentals ← current"]
   S --> S2["php-oop → …"]
   P --> P1["LeetCode-DSA-Pareto-Set"]
@@ -52,10 +69,10 @@ flowchart TB
   F --> F1["backend-engineering"]
 ```
 
-[Open organization →](https://github.com/galhoom-path) · [Path progress →](https://github.com/galhoom-path#-path-progress)
+[Open organization →](https://github.com/galhoom-path) · [Path progress →](https://github.com/galhoom-path#2--path-progress)
 
 ---
 
-## 🛠️ Stack
+## 4 · Stack
 
 `PHP` · `Laravel` · `MySQL` · `REST APIs` · `Livewire` · `Filament` · `Git` · `Postman`
