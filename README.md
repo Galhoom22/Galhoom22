@@ -27,22 +27,27 @@
 
 | | |
 |:---|:---|
-| **Progress** | **0 / 30** lectures · `[░░░░░░░░░░░░░░░░░░░░] **0%**` · Complete? **⬜** |
+| **Progress** | **0 / 30** lectures · `[░░░░░░░░░░░░░░░░░░░░] **0%**` |
+| **Complete?** | ⬜ **Not finished** (`✅` only at **100%**) |
 | **Journey** | **1 Study → 2 Foundations → 3 Solve → 4 Interview → 5 Projects** |
-| **Rule** | Other IDs resume **after 1.1** |
-| **Completion** | **No Galhoom Path repo is `✅` yet** — published content ≠ finished. `✅` only at **100%**; repos stay **living** (e.g. PHP 8.5 → 8.6 updates in-place). |
+| **Rule** | Other Galhoom Path IDs resume **after 1.1** |
+| **Living updates** | Even after `✅`, repos keep getting version bumps in-place (e.g. PHP **8.5 → 8.6**) |
+
+> **No Galhoom Path repo is `✅` yet.** Published content ≠ finished.
 
 ---
 
 ## 2 · Selected work
 
-| # | ID | Repository | Scope |
-|:---:|:---:|:---|:---|
-| **1** | **1.1** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | 🎯 **Current focus** — PHP 8.5+ fundamentals |
-| **2** | **5.1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | Track 5 · Metering & billing API (Laravel) |
-| **3** | — | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | Recruitment platform — candidate & company flows |
-| **4** | **4.1** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | Track 4 · PHP / Laravel interview Q&A |
-| **5** | **2.1** | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Track 2 · Foundations — stack-agnostic notes |
+Ordered by Galhoom Path ID where applicable. **Complete? = `✅` only at 100%.**
+
+| # | ID | Repository | Progress | Complete? | Scope |
+|:---:|:---:|:---|:---:|:---:|:---|
+| **1** | **1.1** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **0%** | ⬜ | 🎯 **Current focus** — PHP 8.5+ fundamentals |
+| **2** | **2.1** | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | **0%** | ⬜ | Track 2 · Foundations — stack-agnostic notes |
+| **3** | **4.1** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | **0%** | ⬜ | Track 4 · PHP / Laravel interview Q&A |
+| **4** | **5.1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | **~20%** | ⬜ | Track 5 · Metering & billing API (Laravel) |
+| **5** | — | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | — | ⬜ | Personal · Recruitment platform (candidate & company flows) |
 
 ---
 
