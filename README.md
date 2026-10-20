@@ -14,63 +14,60 @@
 
 | # | Section |
 |:---:|:---|
-| **1** | [Current focus](#1--current-focus) |
+| **1** | [What I ship](#1--what-i-ship) |
 | **2** | [Selected work](#2--selected-work) |
 | **3** | [Galhoom Path](#3--galhoom-path) |
 | **4** | [Stack](#4--stack) |
 
 ---
 
-## 1 · Current focus
+## 1 · What I ship
 
-**1.1 · 📘 [php-fundamentals](https://github.com/galhoom-path/php-fundamentals)** — Track 1 · Study · Learning Series #1  
+I build and maintain **backend systems** — APIs, domain rules, and Laravel apps that have to stay correct under real traffic and changing requirements.
 
-| | |
-|:---|:---|
-| **Progress** | **0 / 30** lectures · `[░░░░░░░░░░░░░░░░░░░░] **0%**` |
-| **Visual Maps** | **0 / 12** · locked until interviews are done |
-| **Study method** | Lectures → Interviews → **Visual Maps** → Final Project |
-| **Complete?** | ⬜ **Not finished** (`✅` only at **100%**) |
-| **Journey** | **1 Study → 2 Foundations → 3 Solve → 4 Interview → 5 Practice builds** |
-| **Rule** | Other Galhoom Path IDs resume **after 1.1** |
-| **Living updates** | Even after `✅`, repos keep getting version bumps in-place (e.g. PHP **8.5 → 8.6**) |
-
-> **No Galhoom Path repo is `✅` yet.** Published content ≠ finished.
+Right now that means:
+- Production-style **API and domain work** (metering, billing, hiring flows)
+- Keeping a public **backend craft org** ([galhoom-path](https://github.com/galhoom-path)) for structured notes, interview depth, and practice builds — details live there, not on this profile
 
 ---
 
 ## 2 · Selected work
 
-Ordered by Galhoom Path ID where applicable. **Complete? = `✅` only at 100%.**
+Work first. Path curricula are optional reading — not a “student status” board.
 
-| # | ID | Repository | Progress | Complete? | Scope |
-|:---:|:---:|:---|:---:|:---:|:---|
-| **1** | **1.1** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **0%** | ⬜ | 🎯 **Current focus** — PHP 8.5+ · Lectures → Interviews → Visual Maps → Project |
-| **2** | **2.1** | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | **0%** | ⬜ | Track 2 · Foundations — stack-agnostic notes |
-| **3** | **4.1** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | **0%** | ⬜ | Track 4 · PHP / Laravel interview Q&A |
-| **4** | **5.1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | **~20%** | ⬜ | Track 5 · Practice build (learn by doing) — metering & billing API |
-| **5** | — | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | — | ⬜ | Personal · Recruitment platform (candidate & company flows) |
+| # | Repository | Kind | What it is |
+|:---:|:---|:---|:---|
+| **1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | Practice build · API | Energy metering & billing — meters, tariffs, reconciliation (Laravel) |
+| **2** | [job-board-platform](https://github.com/Galhoom22/job-board-platform) | Personal · product | Recruitment platform — candidate & company hiring flows |
+| **3** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | Interview depth | PHP / Laravel answers drawn from real interview rounds |
+| **4** | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | Foundations | Stack-agnostic backend notes (HTTP, data, design trade-offs) |
+| **5** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) · [php-oop](https://github.com/galhoom-path/php-oop) | Craft curricula | Living PHP series I maintain under Galhoom Path (versioned in place) |
+
+> Full progress, track IDs, and study-method rules → **[galhoom-path](https://github.com/galhoom-path)** organization profile.
 
 ---
 
 ## 3 · Galhoom Path
 
-**One pipeline** — each track builds on the previous:
+Public org for **backend craft** — deliberate practice, interview depth, and practice builds. This profile stays engineer-facing; the org carries the pipeline detail.
 
-| Track # | Track | Repo IDs | Role |
-|:---:|:---|:---|:---|
-| **1** | 📘 Study | **1.1 → 1.2 → …** | Learn to write code *(inside each repo: Lectures → Interviews → Visual Maps → Final Project)* |
-| **2** | 🧭 Foundations | **2.1** | Shared backend concepts |
-| **3** | 🧠 Problem Solving | **3.1 → 3.2** | PHP gates → LeetCode patterns |
-| **4** | 🎤 Interview Prep | **4.1** | Real interview answers *(≠ Study’s subject interview folder)* |
-| **5** | 🏗️ Projects | **5.1** | Learn-by-doing practice builds (public · not market products · requirements-first) *(≠ Study’s Final Project)* |
+| Track # | Track | Role |
+|:---:|:---|:---|
+| **1** | 📘 Study | Deep, versioned PHP curricula *(not a beginner badge — living reference + deliberate practice)* |
+| **2** | 🧭 Foundations | Shared backend concepts |
+| **3** | 🧠 Problem Solving | PHP gates → LeetCode patterns |
+| **4** | 🎤 Interview Prep | Real interview answers |
+| **5** | 🏗️ Practice builds | Public learn-by-doing APIs (requirements-first · not market products) |
 
 ```mermaid
 flowchart LR
   T1["1 · Study"] --> T2["2 · Foundations"]
   T2 --> T3["3 · Problem Solving"]
-  T3 -->   T4["4 · Interview Prep"]
+  T3 --> T4["4 · Interview Prep"]
   T4 --> T5["5 · Practice builds"]
+
+  classDef track fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a,stroke-width:2px
+  class T1,T2,T3,T4,T5 track
 ```
 
 ```mermaid
@@ -81,19 +78,26 @@ flowchart TB
   ORG --> P["3 · 🧠 Problem Solving"]
   ORG --> I["4 · 🎤 Interview Prep"]
   ORG --> R["5 · 🏗️ Practice builds"]
-  S --> S1["1.1 php-fundamentals ← current"]
+  S --> S1["1.1 php-fundamentals"]
   S --> S2["1.2 php-oop → …"]
   F --> F1["2.1 backend-engineering"]
-  P --> P1["3.1 php-problem-solving-solo-leveling"]
-  P --> P2["3.2 LeetCode-DSA-Pareto-Set"]
+  P --> P1["3.1 php-problem-solving"]
+  P --> P2["3.2 LeetCode-DSA"]
   I --> I1["4.1 technical-interview-questions"]
-  R --> R1["5.1 energy-conversion · practice"]
+  R --> R1["5.1 energy-conversion"]
+
+  classDef org fill:#fef3c7,stroke:#d97706,color:#78350f,stroke-width:2px
+  classDef track fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a,stroke-width:2px
+  classDef repo fill:#f0fdf4,stroke:#15803d,color:#14532d,stroke-width:2px
+  class ORG org
+  class S,F,P,I,R track
+  class S1,S2,F1,P1,P2,I1,R1 repo
 ```
 
-> Track **5** is public **learn by doing** (not market products). Real commercial work stays private. Each practice repo ships **requirements** (written and/or API contract).  
-> Inside every **Study** repo: **Learn → Explain → Map → Build** (Visual Maps sit after subject interviews, before the Study final project).
+> Track **5** is public **practice** (not commercial products). Real client/company work stays private.  
+> Org homepage for IDs, progress, and method → [github.com/galhoom-path](https://github.com/galhoom-path)
 
-[Open organization →](https://github.com/galhoom-path) · [Path progress →](https://github.com/galhoom-path#2--path-progress) · [Study blueprint →](https://github.com/galhoom-path/study-template)
+[Open organization →](https://github.com/galhoom-path) · [Path progress →](https://github.com/galhoom-path#2--path-progress)
 
 ---
 
