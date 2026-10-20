@@ -53,7 +53,7 @@ Public org for **backend craft** — deliberate practice, interview depth, and p
 
 | Track # | Track | Role |
 |:---:|:---|:---|
-| **1** | 📘 Study | Deep, versioned PHP curricula *(not a beginner badge — living reference + deliberate practice)* |
+| **1** | 📘 Study | Deep, versioned PHP curricula (living reference + deliberate practice) |
 | **2** | 🧭 Foundations | Shared backend concepts |
 | **3** | 🧠 Problem Solving | PHP gates → LeetCode patterns |
 | **4** | 🎤 Interview Prep | Real interview answers |
