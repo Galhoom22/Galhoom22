@@ -27,9 +27,10 @@
 
 | | |
 |:---|:---|
-| **Progress** | **0 / 30** lectures · `[░░░░░░░░░░░░░░░░░░░░] **0%**` |
+| **Progress** | **0 / 30** lectures · `[░░░░░░░░░░░░░░░░░░░░] **0%**` · Complete? **⬜** |
 | **Journey** | **1 Study → 2 Foundations → 3 Solve → 4 Interview → 5 Projects** |
 | **Rule** | Other IDs resume **after 1.1** |
+| **Completion** | **No Galhoom Path repo is `✅` yet** — published content ≠ finished. `✅` only at **100%**; repos stay **living** (e.g. PHP 8.5 → 8.6 updates in-place). |
 
 ---
 
