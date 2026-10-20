@@ -28,6 +28,8 @@
 | | |
 |:---|:---|
 | **Progress** | **0 / 30** lectures · `[░░░░░░░░░░░░░░░░░░░░] **0%**` |
+| **Visual Maps** | **0 / 12** · locked until interviews are done |
+| **Study method** | Lectures → Interviews → **Visual Maps** → Final Project |
 | **Complete?** | ⬜ **Not finished** (`✅` only at **100%**) |
 | **Journey** | **1 Study → 2 Foundations → 3 Solve → 4 Interview → 5 Practice builds** |
 | **Rule** | Other Galhoom Path IDs resume **after 1.1** |
@@ -43,7 +45,7 @@ Ordered by Galhoom Path ID where applicable. **Complete? = `✅` only at 100%.**
 
 | # | ID | Repository | Progress | Complete? | Scope |
 |:---:|:---:|:---|:---:|:---:|:---|
-| **1** | **1.1** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **0%** | ⬜ | 🎯 **Current focus** — PHP 8.5+ fundamentals |
+| **1** | **1.1** | [php-fundamentals](https://github.com/galhoom-path/php-fundamentals) | **0%** | ⬜ | 🎯 **Current focus** — PHP 8.5+ · Lectures → Interviews → Visual Maps → Project |
 | **2** | **2.1** | [backend-engineering](https://github.com/galhoom-path/backend-engineering) | **0%** | ⬜ | Track 2 · Foundations — stack-agnostic notes |
 | **3** | **4.1** | [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions) | **0%** | ⬜ | Track 4 · PHP / Laravel interview Q&A |
 | **4** | **5.1** | [energy-conversion](https://github.com/galhoom-path/energy-conversion) | **~20%** | ⬜ | Track 5 · Practice build (learn by doing) — metering & billing API |
@@ -57,11 +59,11 @@ Ordered by Galhoom Path ID where applicable. **Complete? = `✅` only at 100%.**
 
 | Track # | Track | Repo IDs | Role |
 |:---:|:---|:---|:---|
-| **1** | 📘 Study | **1.1 → 1.2 → …** | Learn to write code |
+| **1** | 📘 Study | **1.1 → 1.2 → …** | Learn to write code *(inside each repo: Lectures → Interviews → Visual Maps → Final Project)* |
 | **2** | 🧭 Foundations | **2.1** | Shared backend concepts |
 | **3** | 🧠 Problem Solving | **3.1 → 3.2** | PHP gates → LeetCode patterns |
-| **4** | 🎤 Interview Prep | **4.1** | Real interview answers |
-| **5** | 🏗️ Projects | **5.1** | Learn-by-doing practice builds (public · not market products · requirements-first) |
+| **4** | 🎤 Interview Prep | **4.1** | Real interview answers *(≠ Study’s subject interview folder)* |
+| **5** | 🏗️ Projects | **5.1** | Learn-by-doing practice builds (public · not market products · requirements-first) *(≠ Study’s Final Project)* |
 
 ```mermaid
 flowchart LR
@@ -88,9 +90,10 @@ flowchart TB
   R --> R1["5.1 energy-conversion · practice"]
 ```
 
-> Track **5** is public **learn by doing** (not market products). Real commercial work stays private. Each practice repo ships **requirements** (written and/or API contract).
+> Track **5** is public **learn by doing** (not market products). Real commercial work stays private. Each practice repo ships **requirements** (written and/or API contract).  
+> Inside every **Study** repo: **Learn → Explain → Map → Build** (Visual Maps sit after subject interviews, before the Study final project).
 
-[Open organization →](https://github.com/galhoom-path) · [Path progress →](https://github.com/galhoom-path#2--path-progress)
+[Open organization →](https://github.com/galhoom-path) · [Path progress →](https://github.com/galhoom-path#2--path-progress) · [Study blueprint →](https://github.com/galhoom-path/study-template)
 
 ---
 
