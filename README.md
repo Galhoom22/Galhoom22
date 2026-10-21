@@ -12,13 +12,6 @@
 
 I ship backend APIs and Laravel apps. This page is the overview; depth lives in each repo. Public craft path → **[galhoom-path](https://github.com/galhoom-path)**.
 
-### Built
-
-- **Energy metering & billing API** — meters, tariffs, reconciliation · [energy-conversion](https://github.com/galhoom-path/energy-conversion)
-- **Recruitment platform** — candidate & company hiring flows · [job-board-platform](https://github.com/Galhoom22/job-board-platform)
-- **Interview answer bank** — real PHP / Laravel rounds · [technical-interview-questions](https://github.com/galhoom-path/technical-interview-questions)
-- **Backend foundations notes** — HTTP, data, design, ops · [backend-engineering](https://github.com/galhoom-path/backend-engineering)
-
 ```mermaid
 flowchart LR
   T1["1 · Study"] --> T2["2 · Foundations"]
