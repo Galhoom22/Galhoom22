@@ -1,0 +1,28 @@
+---
+description: Galhoom22 + galhoom-path public GitHub faces — overview vs detail, no beginner framing, no duplication, personal profile diagram+CTA shape
+alwaysApply: true
+---
+
+# Galhoom GitHub surfaces (mandatory)
+
+When the task touches **Galhoom22**, **galhoom-path**, org/personal profile READMEs, pins, topics, or repo About text:
+
+1. Read the canonical rules (if the sync checkout exists):  
+   `…/_sync-workspaces/galhoom-path-github/GITHUB_SURFACES.md`  
+   Or on GitHub: `galhoom-path/.github` → `GITHUB_SURFACES.md`.
+2. Also obey `galhoom-path-order.mdc` / `path-registry.json` for track IDs.
+
+## Non-negotiables
+
+- **Org + personal profile = overview only.** Full detail lives **inside each repo**. Prefer delete/cut over add.
+- **Do not** put “Pareto” / “20/80” labels on public pages (internal method only).
+- **Personal profile ≠ student dashboard.** No progress bars, Built/repo tables, or beginner framing from Study IDs.
+- **“Current focus”** on the org = **maintainer priority**, not skill level.
+- **No duplication** of `galhoom-path` / slogans on the personal README — **one** org CTA link.
+- **Personal README shape:** hero image + engineer line + LinkedIn → short intro → **one** TB Mermaid (org → tracks → repos) → **only** `[**Open galhoom-path →**](https://github.com/galhoom-path)` → Stack.  
+  Do **not** add “Follow the path” or the journey one-liner under the CTA.
+- **Pins:** do not pin `php-fundamentals` / `php-oop` on Galhoom22.
+- **Repo About Track #** must match: 1 Study · 2 Foundations · 3 Problem Solving · 4 Interview Prep · 5 Projects.
+- Visual Maps Mermaid must pass **GitHub file-view** acceptance (see study `template.md` / Visual Maps Diagram Standards).
+
+If a requested edit would violate these, refuse the violating part and keep the surface compliant.
