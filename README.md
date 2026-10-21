@@ -10,7 +10,7 @@
 
 ---
 
-I ship backend APIs and Laravel apps. Public craft work lives in **[galhoom-path](https://github.com/galhoom-path)** — this profile stays work-facing.
+I ship backend APIs and Laravel apps. This page is the overview; depth lives in each repo. Public craft path → **[galhoom-path](https://github.com/galhoom-path)**.
 
 | | Repo | What |
 |:---:|:---|:---|
