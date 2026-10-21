@@ -10,7 +10,7 @@
 
 ---
 
-I ship backend APIs and Laravel apps. This page is the overview; depth lives in each repo. Public craft path → **[galhoom-path](https://github.com/galhoom-path)**.
+I ship backend APIs and Laravel apps. This page is the overview; depth lives in each repo.
 
 ```mermaid
 flowchart LR
@@ -21,7 +21,5 @@ flowchart LR
   classDef track fill:#dbeafe,stroke:#1d4ed8,color:#1e3a8a,stroke-width:2px
   class T1,T2,T3,T4,T5 track
 ```
-
-Pipeline detail & progress → [galhoom-path](https://github.com/galhoom-path)
 
 **Stack:** `PHP` · `Laravel` · `MySQL` · `REST APIs` · `Livewire` · `Filament` · `Git` · `Postman`
