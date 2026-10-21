@@ -38,10 +38,6 @@ flowchart TB
 
 <div align="center">
 
-### Follow the path
-
-Public backend craft — Study → Foundations → Problem Solving → Interview Prep → Practice builds.
-
 [**Open galhoom-path →**](https://github.com/galhoom-path)
 
 </div>
