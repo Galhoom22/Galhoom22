@@ -16,8 +16,17 @@ I ship backend APIs and Laravel apps. This page is the overview; depth lives in 
 
 | Org | Promise | You open it when… |
 |---|---|---|
-| **[galhoom-path](https://github.com/galhoom-path)** | **Learn and progress** | You want to study, practice, and grow (curriculum + drills + practice builds) |
-| **[galhoom-labs](https://github.com/galhoom-labs)** | **Real products** | You want something you can **use** — web, mobile, desktop, extension, CLI, game, or any other product |
+| **[galhoom-path](https://github.com/galhoom-path)** | **Learn and progress** | You want to study, practice, and grow |
+| **[galhoom-labs](https://github.com/galhoom-labs)** | **Real products** | You want something you can **use** |
+
+### Path projects vs Labs projects
+
+| | **galhoom-path** | **galhoom-labs** |
+|---|---|---|
+| **What the project is** | Practice / applied learning | Real product |
+| **Why it exists** | Get your hands dirty and level up | People can use it and get value |
+| **Success looks like** | You learned something | Someone uses it |
+| **Mindset** | *“I built this to learn.”* | *“I built this for people to use.”* |
 
 **How to choose a home for a repo**
 1. Primary goal is *your learning* → **Path**
@@ -29,7 +38,8 @@ I ship backend APIs and Laravel apps. This page is the overview; depth lives in 
 ### 🛤️ Galhoom Path — learn and progress
 
 Study → Foundations → Solve → Interview → Practice.  
-You come here to improve yourself — not to browse a product catalog.
+You come here to improve yourself — not to browse a product catalog.  
+**Projects here** = applied practice to get your hands dirty and grow — not products for users.
 
 ```mermaid
 flowchart TB
@@ -66,7 +76,7 @@ flowchart TB
 ### 🧪 Galhoom Labs — real products
 
 Websites, mobile apps, desktop apps, Chrome extensions, CLIs, games — **any real product** someone can use and benefit from.  
-Not a study path. If you can install it, run it, or open it and get value, it belongs here.
+Not a study path. **Projects here** = real products you can use — not practice exercises.
 
 ```mermaid
 flowchart TB
