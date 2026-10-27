@@ -14,16 +14,22 @@ I ship backend APIs and Laravel apps. This page is the overview; depth lives in 
 
 ## Two homes (clear split)
 
-| Org | Promise | What belongs there |
+| Org | Promise | You open it when… |
 |---|---|---|
-| **[galhoom-path](https://github.com/galhoom-path)** | **Learn and progress** | Study, foundations, DSA, interview prep, practice builds |
-| **[galhoom-labs](https://github.com/galhoom-labs)** | **Build and share useful things** | Tools, CLIs, and products |
+| **[galhoom-path](https://github.com/galhoom-path)** | **Learn and progress** | You want to study, practice, and grow (curriculum + drills + practice builds) |
+| **[galhoom-labs](https://github.com/galhoom-labs)** | **Real products** | You want something you can **use** — web, mobile, desktop, extension, CLI, game, or any other product |
 
-Practice projects (e.g. Track 5) stay on **Path**. Only things meant for other people to *use* go to **Labs**.
+**How to choose a home for a repo**
+1. Primary goal is *your learning* → **Path**
+2. Primary goal is *other people using it* → **Labs**
+3. Practice builds (e.g. Track 5) stay on **Path** until they become real products.
 
 ---
 
 ### 🛤️ Galhoom Path — learn and progress
+
+Study → Foundations → Solve → Interview → Practice.  
+You come here to improve yourself — not to browse a product catalog.
 
 ```mermaid
 flowchart TB
@@ -57,22 +63,27 @@ flowchart TB
 
 ---
 
-### 🧪 Galhoom Labs — build and share useful things
+### 🧪 Galhoom Labs — real products
+
+Websites, mobile apps, desktop apps, Chrome extensions, CLIs, games — **any real product** someone can use and benefit from.  
+Not a study path. If you can install it, run it, or open it and get value, it belongs here.
 
 ```mermaid
 flowchart TB
   LABS["🧪 galhoom-labs"]
-  LABS --> T["1 · 🛠️ Tools & CLIs"]
-  LABS --> PROD["2 · 🚀 Products"]
-  T --> T1["Helpers · generators · bots"]
-  PROD --> P1["Apps people deploy or use"]
+  LABS --> APP["1 · 🌐 Apps"]
+  LABS --> TOOL["2 · 🛠️ Tools & extensions"]
+  LABS --> MORE["3 · 🎮 More products"]
+  APP --> A1["Web · Mobile · Desktop"]
+  TOOL --> T1["CLIs · Chrome extensions · helpers"]
+  MORE --> M1["Games · anything people can use"]
 
   classDef org fill:#fce7f3,stroke:#be185d,color:#831843,stroke-width:2px
   classDef track fill:#ede9fe,stroke:#6d28d9,color:#4c1d95,stroke-width:2px
   classDef item fill:#ecfdf5,stroke:#047857,color:#064e3b,stroke-width:2px
   class LABS org
-  class T,PROD track
-  class T1,P1 item
+  class APP,TOOL,MORE track
+  class A1,T1,M1 item
 ```
 
 <div align="center">
