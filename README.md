@@ -19,6 +19,15 @@ I ship backend APIs and Laravel apps. This page is the overview; depth lives in 
 | **[galhoom-path](https://github.com/galhoom-path)** | **Learn and progress** | You want to study, practice, and grow |
 | **[galhoom-labs](https://github.com/galhoom-labs)** | **Real products** | You want something you can **use** |
 
+## One account, two complementary homes
+
+This profile is useful in **two** ways on purpose:
+
+1. **Grow** — [galhoom-path](https://github.com/galhoom-path): study, practice, get your hands dirty.
+2. **Use** — [galhoom-labs](https://github.com/galhoom-labs): real products (apps, tools, extensions, games, …).
+
+They **relate and complete each other**. Neither replaces the other. Wrong-home requests should be refused and redirected.
+
 ### Path projects vs Labs projects
 
 | | **galhoom-path** | **galhoom-labs** |
